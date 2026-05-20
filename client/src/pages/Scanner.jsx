@@ -147,7 +147,10 @@ export const Scanner = () => {
         if (scanMode === 'upload' && file) {
           formData.append('image', file);
         } else if (image) {
-          formData.append('image', image); // Base64 snapshot
+          // Convert base64 to Blob for webcam snapshots
+          const response = await fetch(image);
+          const blob = await response.blob();
+          formData.append('image', blob, 'webcam-snapshot.jpg');
         }
 
         const res = await axios.post('/api/food/detect', formData, {
