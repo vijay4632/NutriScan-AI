@@ -386,6 +386,12 @@ Found a bug? Have a great idea? Let us know!
 ---
 WEBSITE LOOK
 <img width="1918" height="975" alt="Screenshot 2026-05-20 212957" src="https://github.com/user-attachments/assets/9697b3cd-5146-4cdb-a076-328a8bf7876a" />
+<img width="1917" height="966" alt="Screenshot 2026-05-20 213128" src="https://github.com/user-attachments/assets/8967bc99-ceae-4719-a76d-e7a054ea44b8" />
+<img width="1901" height="960" alt="Screenshot 2026-05-20 213109" src="https://github.com/user-attachments/assets/56b41908-669d-4881-9bb2-52730d6d33e6" />
+<img width="1911" height="972" alt="Screenshot 2026-05-20 213054" src="https://github.com/user-attachments/assets/f6569430-4fb8-47f9-afcf-d2de3cb86e3d" />
+<img width="1918" height="972" alt="Screenshot 2026-05-20 213046" src="https://github.com/user-attachments/assets/305434df-1de7-4ae5-9e5a-230bea303b7a" />
+<img width="1915" height="972" alt="Screenshot 2026-05-20 213037" src="https://github.com/user-attachments/assets/7385aadf-2adf-48ca-a126-45f099ed61c3" />
+<img width="1917" height="986" alt="Screenshot 2026-05-20 213022" src="https://github.com/user-attachments/assets/6d90be61-8a05-4588-9d8c-e422bc0a450c" />
 
 ## 📄 License
 
