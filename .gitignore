@@ -42,9 +42,9 @@ dist/
 build/
 out/
 
-# Environment variables
-.env
-.env.local
+# Vite and temporary build caches
+ client/.temp/
+ client/.vite_cache/
 .env.development.local
 .env.test.local
 .env.production.local
